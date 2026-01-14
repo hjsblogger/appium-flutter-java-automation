@@ -10,7 +10,7 @@ In this 'Appium Flutter Java Automation' repo, we have covered the nuances of au
 
 The testing is performed on Real Device Cloud infrastructure provided by [TestMu AI](https://www.testmu.ai/)
 
-## :mobile_phone: Steps for test execution
+## Steps for test execution
 
 **Step 1**
 
